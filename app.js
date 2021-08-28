@@ -9,3 +9,4 @@ function clickEventHandler()
 
 btnTranslate.addEventListener("click",clickEventHandler)
 
+console.log(btnTranslate)
